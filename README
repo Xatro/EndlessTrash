@@ -1,5 +1,8 @@
 +Endless Trash+
 
-This repository will hold a short looping "stream starting soon" movie.  The final video will be available to download here as well as all the source files.
+Endless Trash.mp4 is available here for download.
+-Click "Endless Trash.mp4"
+-Click "Download"
 
-There is nothing here yet, so more deatils will be added later.
+About:
+Endless Trash is a short looping animation for a "Stream Starting Soon" intended for a Vinesauce Sunday Stream.  This repository includes the MP4 file as well as all the source files to make the movie.  The movie is a recording of a Windows Forms application (Endless Trash.exe) programmed in C#.  The C# scripts can be found in the Code directory, and the graphical assets are located in the Art directory.
